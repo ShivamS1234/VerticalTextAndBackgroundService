@@ -24,8 +24,6 @@
 	<string>8.0</string>
 	<key>CFBundleDisplayName</key>
 	<string>DemoBackgroundService</string>
-	<key>CFBundleIdentifier</key>
-	<string>com.companyname.DemoBackgroundService</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>UILaunchStoryboardName</key>
@@ -34,5 +32,7 @@
 	<string>DemoBackgroundService</string>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/AppIcon.appiconset</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.anjepit.testing</string>
 </dict>
 </plist>
